@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "cat MBTI",
+  "name": "나의 MBTI와 맞는 고양이는 누구일까?",
   "icons": [
     {
       "src": "favicon.ico",
